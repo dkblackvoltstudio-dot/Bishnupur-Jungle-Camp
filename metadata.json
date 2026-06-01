@@ -1,0 +1,6 @@
+{
+  "name": "Bishnupur Jungle Camp",
+  "description": "Property dashboard displaying accommodations, pricing, policies, and details for Bishnupur Jungle Camp by Total Travellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
